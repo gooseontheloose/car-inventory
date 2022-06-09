@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "car 2d array", "car 2d array\car 2d array.vcxproj", "{1BA26349-B8D8-4F76-BC2D-AD4328F88C4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BA26349-B8D8-4F76-BC2D-AD4328F88C4B}.Debug|x64.ActiveCfg = Debug|x64
+		{1BA26349-B8D8-4F76-BC2D-AD4328F88C4B}.Debug|x64.Build.0 = Debug|x64
+		{1BA26349-B8D8-4F76-BC2D-AD4328F88C4B}.Debug|x86.ActiveCfg = Debug|Win32
+		{1BA26349-B8D8-4F76-BC2D-AD4328F88C4B}.Debug|x86.Build.0 = Debug|Win32
+		{1BA26349-B8D8-4F76-BC2D-AD4328F88C4B}.Release|x64.ActiveCfg = Release|x64
+		{1BA26349-B8D8-4F76-BC2D-AD4328F88C4B}.Release|x64.Build.0 = Release|x64
+		{1BA26349-B8D8-4F76-BC2D-AD4328F88C4B}.Release|x86.ActiveCfg = Release|Win32
+		{1BA26349-B8D8-4F76-BC2D-AD4328F88C4B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6ECE0DB-1367-48F3-ABF9-095BC2A5F69A}
+	EndGlobalSection
+EndGlobal
